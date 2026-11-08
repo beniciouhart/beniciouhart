@@ -1,4 +1,6 @@
-## Hi there 👋
+🔭 Currently working on:
+- Regime-conditional VaR/CVaR pipeline using PELT and HMMs
+- Customer churn uplift modelling with causal inference on real RCT data
 
 <!--
 **beniciouhart/beniciouhart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
