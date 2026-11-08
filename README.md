@@ -1,4 +1,4 @@
-🔭 Currently working on:
+Currently working on:
 - Regime-conditional VaR/CVaR pipeline using PELT and HMMs
 - Customer churn uplift modelling with causal inference on real RCT data
 
